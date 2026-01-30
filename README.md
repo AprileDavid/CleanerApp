@@ -1,3 +1,20 @@
+## 🚀 Descarga
+Las versiones estables están disponibles en:
+👉 https://github.com/TU_USUARIO/CleanerIA/releases
+
+## ℹ️ Versión actual
+CleanerIA v1.0.0
+
+## ⚠️ Aviso
+Esta aplicación realiza análisis inteligentes.
+No elimina archivos sin confirmación del usuario.
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------
 🧠 Cleaner IA
 Análisis inteligente. Limpieza segura.
 
@@ -104,5 +121,6 @@ Enfoque profesional y conservador
 
 
 🏁 En una línea
+
 
 Cleaner IA es un asistente inteligente de limpieza para Windows que libera espacio con seguridad, transparencia y criterio profesional.
