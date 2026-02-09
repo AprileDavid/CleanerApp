@@ -6,6 +6,16 @@ Está pensada para usuarios comunes y avanzados que quieren liberar espacio de f
 
 ---
 
+
+## 📦 Descarga
+
+👉 Dirigite a **Releases** y descargá la última versión estable:
+
+https://github.com/AprileDavid/CleanerApp/releases/tag/v1.0.1
+
+
+
+
 ## ✨ Características principales
 
 ✔ Limpieza de archivos temporales  
@@ -47,12 +57,6 @@ El sistema consulta un archivo remoto `version.json` alojado en el repositorio p
 
 ---
 
-## 📦 Descarga
-
-👉 Dirigite a **Releases** y descargá la última versión estable:
-
-https://github.com/AprileDavid/CleanerApp/releases/tag/v1.0.1
-
 ---
 
 ## 🛠 Estado del proyecto
@@ -78,4 +82,5 @@ Aun así, usala bajo tu propia responsabilidad.
 
 Desarrollado por **David Aprile**  
 CleanerIA — Limpieza inteligente para Windows
+
 
