@@ -51,7 +51,7 @@ El sistema consulta un archivo remoto `version.json` alojado en el repositorio p
 
 👉 Dirigite a **Releases** y descargá la última versión estable:
 
-https://github.com/TU_USUARIO/CleanerIA/releases/latest
+https://github.com/AprileDavid/CleanerApp/releases/tag/v1.0.1
 
 ---
 
@@ -78,3 +78,4 @@ Aun así, usala bajo tu propia responsabilidad.
 
 Desarrollado por **David Aprile**  
 CleanerIA — Limpieza inteligente para Windows
+
