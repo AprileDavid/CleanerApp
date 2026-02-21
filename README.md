@@ -72,11 +72,19 @@ Personaliza tu experiencia seleccionando qué áreas del sistema deseas optimiza
 [!TIP]
 Estos interruptores son ideales para una limpieza diaria rápida y segura.
 
+
+
+
+
 🧹 Limpiar Archivos Temporales
 
 Ruta: %TEMP% y C:\Windows\Temp.
 
 Qué hace: Elimina restos de instalaciones previas y archivos creados por aplicaciones que ya no están en uso.
+
+
+
+
 
 📦 Limpiar Instaladores y Descargas
 
@@ -84,9 +92,17 @@ Ruta: Carpeta de Descargas del usuario.
 
 Qué hace: Vacía archivos .exe, .msi y documentos descargados que suelen acumularse y ocupar varios GB.
 
+
+
+
+
 🛠️ Optimización Técnica
 [!IMPORTANT]
 Estas opciones ayudan a mejorar la salud del registro y la respuesta del sistema operativo.
+
+
+
+
 
 📄 Limpiar Registros de Windows
 
@@ -94,14 +110,26 @@ Qué hace: Borra archivos .log que generan los eventos de Windows y reportes de 
 
 Beneficio: Libera espacio en la partición del sistema y limpia el historial de logs antiguos.
 
+
+
+
+
 🌐 Limpiar Caché de Aplicaciones
 
 Qué hace: Elimina la memoria temporal de navegadores y apps como Discord o Spotify.
 
 Beneficio: Soluciona errores visuales o lentitud al cargar contenido en estas aplicaciones.
 
+
+
+
+
 ⚡ Opción Avanzada
 🚀 Limpiar Archivos Prefetch
+
+
+
+
 
 Qué hace: Vacía la carpeta C:\Windows\Prefetch donde Windows guarda "atajos" de carga de apps.
 
@@ -111,13 +139,20 @@ Nota: La primera vez que abras tus programas luego de esto, tardarán un par de 
 
 
 
+
+
+
+
 🤖 El Motor de IA (Learning Engine)
 
 
 La app aprende de tu uso para mantener un historial de éxito:
 Rangos de Usuario: Pasá de Novato 
+
 🐣 a Maestro del Vacío 
+
 🌌 según cuánto espacio liberes.
+
 Estadísticas Reales: Visualizá tu impacto total en el disco desde el primer día de uso.
 Persistencia: Datos guardados localmente en %AppData%\Local\CleanerApp\learning.json.
 
@@ -231,6 +266,7 @@ pero siempre se recomienda realizar copias de seguridad de archivos personales i
 
 Desarrollado por David Aprile
 Limpio Win — Tu PC, como el primer día.
+
 
 
 
