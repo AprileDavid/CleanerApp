@@ -1,4 +1,4 @@
-este README: # 🧹 CleanerIA
+🧹 CleanerIA
 
 
 
@@ -140,4 +140,5 @@ pero siempre se recomienda realizar copias de seguridad de archivos personales i
 
 Desarrollado por David Aprile
 Limpio Win — Tu PC, como el primer día.
+
 
