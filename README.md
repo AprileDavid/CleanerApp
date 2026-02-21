@@ -6,8 +6,6 @@ Limpio Win es una aplicación diseñada para eliminar archivos innecesarios sin 
 ---
 
 
----
-
 ## 💡 ¿Cómo instalar Limpia Win? (Importante)
 
 Debido a que **Limpia Win** es una aplicación nueva y de un desarrollador independiente, es muy probable que Windows muestre un aviso de **SmartScreen** al ejecutar el instalador. No te preocupes, esto es normal por la falta de un certificado digital costoso.
@@ -38,9 +36,6 @@ Debido a que **Limpia Win** es una aplicación nueva y de un desarrollador indep
 > La aplicación incluye un **Sistema de Auto-Update**. Si hay una versión más reciente en GitHub, Limpio Win te avisará automáticamente al iniciar.
 >
 > 
-
-
----
 
 ---
 
@@ -108,6 +103,7 @@ La app registra tu historial para que visualices tu impacto real en el disco:
 
 **Desarrollado por David Aprile**
 *Limpio Win — Tu PC, como el primer día.*
+
 
 
 
