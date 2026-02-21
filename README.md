@@ -9,7 +9,7 @@ Limpio Win es una aplicación diseñada para eliminar archivos innecesarios sin 
 
 | **Versión Actual** | **Link de Descarga** |
 | :--- | :--- |
-| `v1.1.0` | [👉 Descargar última versión estable](https://github.com/AprileDavid/CleanerApp/releases/latest) |
+| `v1.0.0` | [👉 Descargar última versión estable](https://github.com/AprileDavid/CleanerApp/releases/latest) |
 
 > [!NOTE]
 > La aplicación incluye un **Sistema de Auto-Update**. Si hay una versión más reciente en GitHub, Limpio Win te avisará automáticamente al iniciar.
@@ -80,3 +80,4 @@ La app registra tu historial para que visualices tu impacto real en el disco:
 
 **Desarrollado por David Aprile**
 *Limpio Win — Tu PC, como el primer día.*
+
