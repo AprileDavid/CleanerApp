@@ -73,7 +73,7 @@ Personaliza tu experiencia seleccionando qué áreas del sistema deseas optimiza
 Estos interruptores son ideales para una limpieza diaria rápida y segura.
 
 
-
+---
 
 
 🧹 Limpiar Archivos Temporales
@@ -83,7 +83,7 @@ Ruta: %TEMP% y C:\Windows\Temp.
 Qué hace: Elimina restos de instalaciones previas y archivos creados por aplicaciones que ya no están en uso.
 
 
-
+---
 
 
 📦 Limpiar Instaladores y Descargas
@@ -266,6 +266,7 @@ pero siempre se recomienda realizar copias de seguridad de archivos personales i
 
 Desarrollado por David Aprile
 Limpio Win — Tu PC, como el primer día.
+
 
 
 
