@@ -50,7 +50,64 @@ Si hay una nueva versión en GitHub, la app te avisará automáticamente al inic
 
 
 
+
+
 ---
+
+
+
+
+
+---
+
+
+
+
+
+
+⚙️ Configuración de Limpieza
+Personaliza tu experiencia seleccionando qué áreas del sistema deseas optimizar:
+
+📂 Archivos del Usuario y Sistema
+[!TIP]
+Estos interruptores son ideales para una limpieza diaria rápida y segura.
+
+🧹 Limpiar Archivos Temporales
+
+Ruta: %TEMP% y C:\Windows\Temp.
+
+Qué hace: Elimina restos de instalaciones previas y archivos creados por aplicaciones que ya no están en uso.
+
+📦 Limpiar Instaladores y Descargas
+
+Ruta: Carpeta de Descargas del usuario.
+
+Qué hace: Vacía archivos .exe, .msi y documentos descargados que suelen acumularse y ocupar varios GB.
+
+🛠️ Optimización Técnica
+[!IMPORTANT]
+Estas opciones ayudan a mejorar la salud del registro y la respuesta del sistema operativo.
+
+📄 Limpiar Registros de Windows
+
+Qué hace: Borra archivos .log que generan los eventos de Windows y reportes de errores.
+
+Beneficio: Libera espacio en la partición del sistema y limpia el historial de logs antiguos.
+
+🌐 Limpiar Caché de Aplicaciones
+
+Qué hace: Elimina la memoria temporal de navegadores y apps como Discord o Spotify.
+
+Beneficio: Soluciona errores visuales o lentitud al cargar contenido en estas aplicaciones.
+
+⚡ Opción Avanzada
+🚀 Limpiar Archivos Prefetch
+
+Qué hace: Vacía la carpeta C:\Windows\Prefetch donde Windows guarda "atajos" de carga de apps.
+
+Cuándo usarlo: Solo si notas que tu PC está inestable o tras una desinstalación masiva de programas.
+
+Nota: La primera vez que abras tus programas luego de esto, tardarán un par de segundos extra en iniciar mientras Windows recrea el índice.
 
 
 
@@ -67,6 +124,15 @@ Persistencia: Datos guardados localmente en %AppData%\Local\CleanerApp\learning.
 
 
 ---
+
+
+
+---
+
+
+
+
+
 
 
 
@@ -104,6 +170,14 @@ Portabilidad: No requiere instalación. Ejecutar y listo.
 ---
 
 
+
+---
+
+
+
+
+
+
 🛠️ Estado del Proyecto
 Versión Actual: v1.1.0
 
@@ -124,6 +198,15 @@ Detección de archivos duplicados.
 
 
 
+---
+
+
+
+
+
+
+
+
 ## ⚠️ Aviso
 
 Desarrollado con foco en la seguridad. 
@@ -135,10 +218,19 @@ pero siempre se recomienda realizar copias de seguridad de archivos personales i
 ---
 
 
+---
+
+
+
+
+
+
+
 
 ❤️ Créditos
 
 Desarrollado por David Aprile
 Limpio Win — Tu PC, como el primer día.
+
 
 
