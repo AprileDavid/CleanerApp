@@ -1,86 +1,65 @@
-# 🧹 CleanerIA
+🧹 Limpio Win (CleanerApp)
+Limpio Win es una aplicación de limpieza segura y optimización para Windows, diseñada para eliminar archivos innecesarios de forma inteligente y transparente.
 
-CleanerIA es una aplicación de limpieza segura para Windows, diseñada para eliminar archivos innecesarios sin poner en riesgo el sistema.
+A diferencia de otros limpiadores, Limpio Win utiliza un motor de aprendizaje para registrar tus logros y un asistente que te explica exactamente qué estás borrando.
 
-Está pensada para usuarios comunes y avanzados que quieren liberar espacio de forma clara, controlada y sin sorpresas.
+📦 Descarga y Actualizaciones
+👉 Última Versión Estable: Descargar v1.1.0
 
----
+Nota: La aplicación incluye un Sistema de Auto-Update. Si hay una nueva versión en GitHub, la app te avisará automáticamente al iniciar.
 
+✨ Características Principales
+🚀 Limpieza Profunda: Temporales, Logs de Windows, Prefetch y Caché de aplicaciones.
 
-## 📦 Descarga
+🧠 Asistente Inteligente: Panel lateral que explica el origen de los archivos detectados.
 
-👉 Dirigite a **Releases** y descargá la última versión estable:
+🏆 Sistema de Logros: Registro histórico de GB liberados y contador de sesiones.
 
-https://github.com/AprileDavid/CleanerApp/releases/tag/v1.0.1
+🛡️ Seguridad Total: Algoritmos que protegen archivos críticos del sistema y del usuario.
 
+🎨 Interfaz Moderna: Diseño basado en WPF con visualización de carpetas eliminadas en tiempo real.
 
+🔊 Feedback Sonoro: Notificaciones de audio integradas para inicio y fin de limpieza.
 
+🤖 El Motor de IA (Learning Engine)
+La app aprende de tu uso para mantener un historial de éxito:
 
-## ✨ Características principales
+Rangos de Usuario: Pasá de Novato 🐣 a Maestro del Vacío 🌌 según cuánto espacio liberes.
 
-✔ Limpieza de archivos temporales  
-✔ Limpieza de logs y registros  
-✔ Limpieza de caché de aplicaciones y navegadores  
-✔ Limpieza de Prefetch (opción avanzada)  
-✔ Análisis explicativo inteligente (asistente)  
-✔ Interfaz moderna, clara y liviana  
-✔ **No elimina archivos críticos del sistema**
+Estadísticas Reales: Visualizá tu impacto total en el disco desde el primer día de uso.
 
----
+Persistencia: Datos guardados localmente en %AppData%\Local\CleanerApp\learning.json.
 
-## 🤖 Asistente inteligente
+🔄 Cómo funciona el Update
+El sistema consulta nuestro archivo remoto version.json para comparar la versión local contra la última estable en el repositorio.
 
-CleanerIA incluye un asistente que explica **qué tipo de archivos ocupan espacio** antes de limpiarlos, ayudando a tomar decisiones informadas.
+✔ Seguro y liviano.
 
-Ejemplo:
-> “Los archivos temporales ocupan 160 MB. Son restos de procesos y actualizaciones.”
+✔ Enlace directo a los últimos cambios (Changelog).
 
----
+🖥️ Requisitos del Sistema
+OS: Windows 10 o superior (x64).
 
-## 🔄 Sistema de actualizaciones
+Permisos: Se recomienda ejecutar como Administrador para limpiar carpetas del sistema.
 
-CleanerIA puede comprobar si existe una versión más reciente desde GitHub.
+Portabilidad: No requiere instalación. Ejecutar y listo.
 
-El sistema consulta un archivo remoto `version.json` alojado en el repositorio principal y compara versiones.
+🛠️ Estado del Proyecto
+Versión Actual: v1.1.0
 
-✔ No descarga nada automáticamente  
-✔ Solo informa al usuario  
-✔ Seguro y transparente  
+Estado: Estable y Funcional.
 
----
+Próximas Mejoras:
 
-## 🖥 Requisitos del sistema
+Modo Oscuro (Dark Mode).
 
-- Windows 10 o superior  
-- Arquitectura x64  
-- No requiere instalación (versión portable)
+Limpieza programada.
 
----
+Detección de archivos duplicados.
 
----
+⚠️ Aviso Legal
+Desarrollado con foco en la seguridad. La aplicación elimina archivos que el sistema ya no necesita, pero siempre se recomienda realizar copias de seguridad de archivos personales importantes.
 
-## 🛠 Estado del proyecto
-
-- Versión actual: **v1.0.0 (Stable)**
-- Estado: Estable
-- Próximas mejoras:
-  - Detección de archivos duplicados
-  - Instalador oficial
-  - Sistema de actualización automática
-  - Historial de limpiezas
-
----
-
-## ⚠️ Aviso
-
-CleanerIA fue desarrollada con foco en la **seguridad del sistema**.  
-Aun así, usala bajo tu propia responsabilidad.
-
----
-
-## ❤️ Créditos
-
-Desarrollado por **David Aprile**  
-CleanerIA — Limpieza inteligente para Windows
-
-
+❤️ Créditos
+Desarrollado por David Aprile
+Limpio Win — Tu PC, como el primer día.
