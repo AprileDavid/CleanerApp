@@ -16,6 +16,27 @@ Limpio Win es una aplicación diseñada para eliminar archivos innecesarios sin 
 
 ---
 
+## 💡 ¿Cómo instalar Limpia Win? (Importante)
+
+Debido a que **Limpia Win** es una aplicación nueva y de un desarrollador independiente, es muy probable que Windows muestre un aviso de **SmartScreen** al ejecutar el instalador. No te preocupes, esto es normal por la falta de un certificado digital costoso.
+
+### 🛠️ Pasos para una instalación segura:
+
+1. **Descarga** el archivo `LimpiaWin_v1.0.0_Setup.exe` desde la sección de [Releases](https://github.com/AprileDavid/CleanerApp/releases).
+2. **Ejecuta** el instalador. 
+3. Si aparece el cartel azul de **"Windows protegió su PC"**:
+   * Haz clic en el enlace pequeño que dice **"Más información"**.
+   * Luego, haz clic en el botón **"Ejecutar de todas formas"**.
+4. ¡Listo! Sigue las instrucciones del asistente de instalación para completar el proceso.
+
+> [!TIP]
+> A medida que más usuarios descarguen y utilicen la aplicación, este aviso de Windows desaparecerá automáticamente. ¡Gracias por confiar en Limpia Win!
+> 
+
+---
+
+---
+
 ## ✨ Características principales
 
 * **Análisis Inteligente:** Incluye un asistente explicativo que te ayuda a decidir qué limpiar.
@@ -80,4 +101,5 @@ La app registra tu historial para que visualices tu impacto real en el disco:
 
 **Desarrollado por David Aprile**
 *Limpio Win — Tu PC, como el primer día.*
+
 
