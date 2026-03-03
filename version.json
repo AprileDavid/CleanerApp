@@ -1,23 +1,10 @@
 {
-  "App": "CleanerApp",
+  "App": "Limpia Win - Private Edition",
   "Version": "1.0.0",
   "Stable": true,
-  "ReleaseDate": "2026-01-30",
+  "ReleaseDate": "2026-03-03",
   "ReleaseUrl": "https://github.com/AprileDavid/CleanerApp/releases/latest",
-  "Changelog": [
-    "Primera versión estable",
-    "Sistema de auto-update integrado",
-    "Limpieza segura para Windows"
-  ],
-  "MinOS": "Windows 10",
+  "Changelog": [],
+  "MinOS": "Windows 10+",
   "Architecture": "x64"
 }
-
-
-
-
-
-
-
-
-
