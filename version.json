@@ -1,6 +1,6 @@
 {
   "App": "Limpia Win",
-  "Version": "1.0.1",
+  "Version": "1.1.0",
   "Stable": true,
   "ReleaseDate": "2026-03-03",
   "ReleaseUrl": "https://github.com/AprileDavid/CleanerApp/releases/latest",
@@ -8,6 +8,7 @@
   "MinOS": "Windows 10+",
   "Architecture": "x64"
 }
+
 
 
 
