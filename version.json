@@ -1,5 +1,5 @@
 {
-  "App": "Limpia Win - Private Edition",
+  "App": "Limpia Win",
   "Version": "1.0.0",
   "Stable": true,
   "ReleaseDate": "2026-03-03",
@@ -8,6 +8,7 @@
   "MinOS": "Windows 10+",
   "Architecture": "x64"
 }
+
 
 
 
